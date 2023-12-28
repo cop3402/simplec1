@@ -1,0 +1,7 @@
+parser.tab.h
+parser.tab.c
+lexer.c
+parser.output
+simplec
+*.o
+*~
